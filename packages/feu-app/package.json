@@ -1,5 +1,6 @@
 {
   "name": "feu-app",
+  "private": true,
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "guzhongren <guzhongren@live.cn>",
