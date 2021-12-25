@@ -1,0 +1,30 @@
+{
+  "name": "feu-ui",
+  "private": true,
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "guzhongren <guzhongren@live.cn>",
+  "homepage": "https://github.com/beef-noodles/lerna-study#readme",
+  "license": "ISC",
+  "main": "lib/feu-ui.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beef-noodles/lerna-study.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/beef-noodles/lerna-study/issues"
+  },
+  "devDependencies": {
+    "chalk": "^5.0.0"
+  }
+}
